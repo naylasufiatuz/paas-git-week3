@@ -1,4 +1,3 @@
-## Identitas Praktikum
-- Nama: Nayla Sufiatuz Zahro
-- Kelas: XII SIJA 2
-- Minggu: 3
+## Homepage
+
+Welcome to my Git Week 3 project.
